@@ -1,0 +1,39 @@
+body{
+   font-family: 'raleway';
+   background-image:url("../img/fondo.jpg") ;
+   background-size: cover;
+}
+
+.card-img-top{
+   object-fit: cover;
+}
+
+
+.bg-personalizado{
+   background-color: #131313;
+}
+
+#Acerca-de-mi{
+   color: white;
+}
+
+
+.card-title{
+   font-size: 16pt;
+   font-weight: 300;
+}
+
+.card-subtitle{
+   font-size: 14pt;
+   font-weight: 300;
+   color:#707070;
+}
+
+
+.formulario{
+   background-color: #131313 ;
+}
+
+.text-center{
+   color: #707070;
+}

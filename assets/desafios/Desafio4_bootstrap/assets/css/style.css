@@ -1,0 +1,53 @@
+body{
+   font-family: 'Roboto';
+}
+
+.bg-personalizado{
+   background-color: #28A745;
+}
+
+.card-title{
+   font-size: 16pt;
+   font-weight: 300;
+}
+
+.card-subtitle{
+   font-size: 14pt;
+   font-weight: 300
+}
+
+.card-img-top{
+   object-fit: cover;
+}
+
+.direccion{
+   font-size: 11pt;
+   font-weight: 300;
+   margin-top: 5%;
+   color: #707070;
+}
+
+.normalprice{
+font-weight: 300;
+font-size:15pt;
+color: #707070;
+}
+
+.oferta{
+   text-align: right;
+   color: #28A745;
+   font-weight: 400;
+   font-size: 16pt;
+}
+
+.card-subtitle{
+   color: #707070;
+}
+
+.formulario{
+   background-color: #28A745 ;
+}
+
+.text-center{
+   color: #707070;
+}

@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background-color: black;
+ }
+
+header {
+    padding: 7px, 0;
+    height: 59px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    font-family: Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+
+.imagenprincipal{
+    float:right
+}
+
+.imagenprincipal img {
+    width: 399px;
+    display: flow-root;
+
+}
+
+.principal {
+    text-align: center;
+    display: flow-root;
+    margin: 50px 150px;
+}
+
+.textoprincipal {
+    width: 475px;
+    text-align: left;
+    font: normal normal 300 16px/19px Raleway;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    float: left;
+    padding: 0%;
+
+}
+
+.features {
+    text-align: center;
+    background-color: #1E1A13;
+    margin: 50px 150px;
+}
+
+.textofeature {
+    text-align: center;
+    font-family: Raleway;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.feature {
+    color: #FFFFFF;
+    display: inline-block;
+    background-color: #1E1A13;
+    width: 30%;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    font-family: Raleway;
+    padding-top: 50px;
+}
+
+.feature i {
+    display: block;
+    padding-bottom: 17px;
+    background-color: #1E1A13;
+}
+
+.gallery {
+    text-align: center;
+    padding: 5% 0%;
+}
+
+.photo {
+    display: inline-block;
+
+}
+
+.photo img {
+
+    width: 316px;
+    height: 202px;
+    margin: 0 10px;
+}
+
+.footer {
+    background-color: black;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: Raleway;
+    text-align: center;
+    padding: 39px 0;
+}
+
+.footer a {
+    color: #FFFFFF
+}
